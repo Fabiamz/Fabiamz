@@ -1,4 +1,4 @@
-# Opa, eu sou Gustavo! 
+# Opa, eu sou Gustavo!  👤
 
 ---
 
