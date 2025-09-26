@@ -1,4 +1,4 @@
-#  🧠 Opa, eu sou o Gustavo!
+#  Opa, eu sou o Gustavo!
 
 ---
 ![MEU GIF](https://github.com/Fabiamz/Fabiamz/blob/main/Sasuke.gif)
