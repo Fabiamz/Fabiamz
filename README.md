@@ -1,4 +1,4 @@
-#  𝕲𝖚𝖘𝖙𝖆𝖛𝖔 𝕱𝖆𝖇𝖎𝖆𝖒 
+#  GUSTAVO FABIAM
 
 💻 Estudante Técnico em **Desenvolvimento de Sistemas** no SENAI - Joinville/SC  
 🚀 Explorando **Python**, **POO** e **UML** enquanto desenvolvo projetos e soluções.  
