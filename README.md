@@ -18,7 +18,9 @@
 ---
 
 ## 🌐 Contatos
-- **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
-- **E-mail:**gustavojoaquimfabiam@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/gustavo-fabiam-a0633a347/ 
+- **E-mail:** gustavojoaquimfabiam@gmail.com
 
 ---
+
+⭐ *“A tecnologia move o mundo.” – Steve Jobs*
