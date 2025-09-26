@@ -13,9 +13,3 @@
 
 ---
 
-## 📲 Contatos
-- **LinkedIn:** https://www.linkedin.com/in/gustavo-fabiam-a0633a347/ 
-- **E-mail:** gustavojoaquimfabiam@gmail.com
-
----
-
