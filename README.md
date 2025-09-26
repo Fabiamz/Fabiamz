@@ -1,4 +1,4 @@
-#  𝕲𝖚𝖘𝖙𝖆𝖛𝖔 𝕱𝖆𝖇𝖎𝖆𝖒 👨🏻‍💻
+#  𝕲𝖚𝖘𝖙𝖆𝖛𝖔 𝕱𝖆𝖇𝖎𝖆𝖒 
 
 ---
 ![MEU GIF](https://github.com/Fabiamz/Fabiamz/blob/main/Register%20-%20Login.gif)
