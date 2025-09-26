@@ -22,7 +22,7 @@
 
 ## 🚀 Projetos e Estudos
 Aqui estão alguns dos meus repositórios e atividades do curso técnico:  
-🌐 [github.com/Fabiamz](https://github.com/Fabiamz/Senai-Sul-JOINVILLE-SC)
+🌐 [github.com/Senai-Atividades/Trabalhos](https://github.com/Fabiamz/Senai-Sul-JOINVILLE-SC)
 
 ---
 
