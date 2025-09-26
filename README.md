@@ -1,6 +1,7 @@
 # Opa, eu sou o Gustavo!
 
 ---
+![Coding](https://br.pinterest.com/pin/525021269039484591/)
 
 ---
 
