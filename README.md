@@ -1,7 +1,7 @@
 # Opa, eu sou o Gustavo!
 
 ---
-![Coding](https://br.pinterest.com/pin/525021269039484591/)
+![MEU GIF] (https://github.com/Fabiamz/Fabiamz/blob/main/Sasuke.gif)
 
 ---
 
