@@ -3,7 +3,8 @@
 💻 Estudante Técnico em **Desenvolvimento de Sistemas** no SENAI - Joinville/SC  
 🚀 Explorando **Python**, **POO** e **UML** enquanto desenvolvo projetos e soluções.  
 🎯 Meu objetivo: evoluir como desenvolvedor e criar sistemas que façam a diferença.  
-
+---
+![Meu GIF](https://github.com/Fabiamz/Fabiamz/blob/main/Register%20-%20Login.gif)
 ---
 
 ## 🌐 Linguagens que estou aprendendo
