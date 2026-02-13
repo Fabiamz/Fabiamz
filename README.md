@@ -25,9 +25,3 @@ Aqui estão alguns dos meus repositórios e atividades do curso técnico:
 🌐 [github.com/Senai-Atividades/Trabalhos](https://github.com/Fabiamz/Senai-Sul-JOINVILLE-SC)
 
 ---
-
-## 📊 Estatísticas do GitHub
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiamz&show_icons=true&theme=radical)
-
----
-
