@@ -1,7 +1,7 @@
 #  Gustavo Joaquim Fabiam
 
-💻 Estudante Técnico em **Desenvolvimento de Sistemas** no SENAI - Joinville/SC  
-🎯 Meu objetivo: evoluir como desenvolvedor e criar sistemas que façam a diferença.  
+Estudante Técnico em **Desenvolvimento de Sistemas** no SENAI - Joinville/SC  
+Meu objetivo: evoluir como desenvolvedor e criar sistemas que façam a diferença.  
 
 ---
 
