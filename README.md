@@ -5,7 +5,7 @@
 
 ---
 
-## 🌐 Linguagens & Tecnologias
+## Linguagens & Tecnologias
 Aqui estão as linguagens que domino e venho aprimorando no meu dia a dia:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -23,7 +23,7 @@ Sistemas robustos precisam de persistência de dados eficiente:
 
 ---
 
-## 🛠️ Ferramentas & Frameworks
+## Ferramentas & Frameworks
 O ecossistema que utilizo para desenvolver e versionar meus projetos:
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
@@ -39,5 +39,3 @@ Acompanhe de perto os repositórios e atividades desenvolvidas durante o curso t
 **Acesse meu repositório de trabalhos:** [SENAI Joinville - Atividades](https://github.com/Fabiamz/Senai-Sul-JOINVILLE-SC)
 
 ---
-
-*Disposto a aprender, colaborar e construir soluções inteligentes.* 
