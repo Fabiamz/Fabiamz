@@ -1,4 +1,4 @@
-# 🧑‍💻 Gustavo Joaquim Fabiam
+# Gustavo Joaquim Fabiam
 
 > Estudante Técnico em **Desenvolvimento de Sistemas** no SENAI — Joinville/SC  
 > **Objetivo:** Evoluir como desenvolvedor e criar sistemas que façam a diferença.  
@@ -16,7 +16,7 @@ Aqui estão as linguagens que domino e venho aprimorando no meu dia a dia:
 
 ---
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 Sistemas robustos precisam de persistência de dados eficiente:
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -33,11 +33,11 @@ O ecossistema que utilizo para desenvolver e versionar meus projetos:
 
 ---
 
-## 📆 Projetos e Estudos
+## Projetos e Estudos
 Acompanhe de perto os repositórios e atividades desenvolvidas durante o curso técnico:  
 
-📂 **Acesse meu repositório de trabalhos:** [SENAI Joinville - Atividades](https://github.com/Fabiamz/Senai-Sul-JOINVILLE-SC)
+**Acesse meu repositório de trabalhos:** [SENAI Joinville - Atividades](https://github.com/Fabiamz/Senai-Sul-JOINVILLE-SC)
 
 ---
 
-*Disposto a aprender, colaborar e construir soluções inteligentes.* 🚀
+*Disposto a aprender, colaborar e construir soluções inteligentes.* 
